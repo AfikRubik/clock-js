@@ -35,3 +35,8 @@ body {
   opacity: 50%;
   background-color: black;
 }
+
+.hour-hand {
+  margin-left: 4.5em;
+  width: 35%;
+}
